@@ -10,7 +10,7 @@ source:
   sha256: 51e8cb1b0babf703ee525a1c8ec340ff4b2aa5b906734d3cd32daceb4a7e8bd3
 
 build:
-  number: 0
+  number: 1
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
 
@@ -33,7 +33,7 @@ test:
     - pip
 
 about:
-  home: https://github.com/rstudio/py-htmltools
+  home: https://github.com/posit-dev/py-htmltools
   summary: Tools for HTML generation and output.
   license: MIT
   license_file:
@@ -45,8 +45,8 @@ about:
 
     PyPI: [https://pypi.org/project/htmltools](https://pypi.org/project/htmltools)
 
-  doc_url: https://github.com/rstudio/py-htmltools
-  dev_url: https://github.com/rstudio/py-htmltools
+  doc_url: https://github.com/posit-dev/py-htmltools
+  dev_url: https://github.com/posit-dev/py-htmltools
 
 extra:
   recipe-maintainers:

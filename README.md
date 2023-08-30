@@ -3,15 +3,15 @@ About py-htmltools-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/py-htmltools-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/rstudio/py-htmltools
+Home: https://github.com/posit-dev/py-htmltools
 
 Package license: MIT
 
 Summary: Tools for HTML generation and output.
 
-Development: https://github.com/rstudio/py-htmltools
+Development: https://github.com/posit-dev/py-htmltools
 
-Documentation: https://github.com/rstudio/py-htmltools
+Documentation: https://github.com/posit-dev/py-htmltools
 
 
 Tools for creating, manipulating, and writing HTML from Python.
