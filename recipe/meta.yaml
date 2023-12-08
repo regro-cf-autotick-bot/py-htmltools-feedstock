@@ -1,5 +1,5 @@
 {% set name = "htmltools" %}
-{% set version = "0.4.1" %}
+{% set version = "0.5.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/htmltools-{{ version }}.tar.gz
-  sha256: d432725cd3cdbddada29cfbae34f474c94990918b09966fa3997c1c493098d5f
+  sha256: 49f7cb645ce3e2fa3d2afa4cd024c285b2d0324ec57bc10affb04d28a62f73c7
 
 build:
   number: 0
